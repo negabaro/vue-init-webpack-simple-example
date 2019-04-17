@@ -1,12 +1,16 @@
 # vue-init-webpack-simple-example
 
 
-## this is buildas @vue/cli-init
+## this is built as @vue/cli-init
 
 ```
 npm install -g @vue/cli-init
 vue init webpack-simple vue-init-webpack-simple-example
 cd vue-init-webpack-simple-example/
+```
+
+```
+use sass
 ```
 
 > A Vue.js project
